@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-game",
+  "version": "1.0.0",
+  "description": "Word Guess command-line game using constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chad-balash/js-constructor-word-guess.git"
+  },
+  "author": "Chad Balash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chad-balash/js-constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/chad-balash/js-constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "prompt": "^1.0.0"
+  }
+}
